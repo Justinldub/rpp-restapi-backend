@@ -20,5 +20,4 @@ Json
 MySQL
 SQL
 
-The API is consumed by AngularJS application to render the view through web browsers
-For Admin panel, POS, and client application for online ordering.
+
